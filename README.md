@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darac30
-- 👀 I’m interested in backend development and data science
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in frontend development
+- 🌱 
 - 💞️ I’m looking to collaborate on various projects
 - 📫 You can reach me via e-mail address darijan.petrac@gmail.com or my phone number +385953915096. 
 
